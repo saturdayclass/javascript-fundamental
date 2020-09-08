@@ -12,7 +12,7 @@
 //  Bedanya apa antara var, let dan const?
 /* 
   1. Const ga bisa di reasign / tugaskan kembali
-  2. Var dia di hosting ( di angkat ke global (document) )
+  2. Var dia di hoisting ( di angkat ke global (document) )
   3. Let gabisa di reasign sebelum dia di deklarasikan
 */
 
